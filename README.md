@@ -39,8 +39,7 @@ The dataset we used is obtained from Kaggle: https://www.kaggle.com/datasets/joh
 - @seelism - Initial testing of Machine Learning Models
 - @nicolekaira - Random Forest Classifer, XGBoost Model
 
-#References
-Reference
+# References
 1. https://www.datacamp.com/tutorial/random-forests-classifier-python
 2. https://www.datacamp.com/tutorial/xgboost-in-python 
 3. https://blog.devgenius.io/develop-a-logistic-regression-machine-learning-model-64d2be403ba3
