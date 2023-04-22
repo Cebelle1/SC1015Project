@@ -31,4 +31,4 @@ Our team's goal is to predict features that contribute to customer churn in the 
 - TensorFlow Keras
 
 # Dataset
-The dataset we used is obtained from Kaggle: https://www.kaggle.com/datasets/johnflag/jb-link-telco-customer-churn , saved as "telco_churn.csv" in this Repo
+The dataset we used is obtained from Kaggle: https://www.kaggle.com/datasets/johnflag/jb-link-telco-customer-churn , saved as "telco_churn_data.csv" in this Repo
