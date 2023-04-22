@@ -35,9 +35,9 @@ Our team's goal is to predict features that contribute to customer churn in the 
 The dataset we used is obtained from Kaggle: https://www.kaggle.com/datasets/johnflag/jb-link-telco-customer-churn , saved as "telco_churn_data.csv" in this Repo
 
 # Contributors
--@Cebelle1 -  EDA & Deep Learning
--@seelism - Initial testing of Machine Learning Models
--@nicolekaira - Random Forest Classifer, XGBoost Model
+- @Cebelle1 -  EDA & Deep Learning
+- @seelism - Initial testing of Machine Learning Models
+- @nicolekaira - Random Forest Classifer, XGBoost Model
 
 #References
 Reference
