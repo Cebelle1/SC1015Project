@@ -2,6 +2,7 @@
 
 We are Group 5 from Tutorial A127.
 Our team's goal is to predict features that contribute to customer churn in the field of Telecommunications.
+
 ![image](https://user-images.githubusercontent.com/84433822/233770417-867b9574-e097-40c7-8a5a-5ad0a1634f8b.png)
 
 
