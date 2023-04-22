@@ -1,4 +1,4 @@
-# SC1015Project - *Telco-Churn
+# SC1015Project - *Telco Churn*
 
 We are Group 5 from Tutorial A127. 
 Our team's goal is to predict features that contribute to customer churn in the field of Telecommunications.
