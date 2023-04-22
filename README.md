@@ -12,7 +12,7 @@ Our team's goal is to predict features that contribute to customer churn in the 
 - Data Visualization: Python
 - Presentation: PowerPoint
 
-# Libraries
+# Libraries/Algorithmns
 ## General 
 - Pandas
 - Numpy
