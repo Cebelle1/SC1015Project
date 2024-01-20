@@ -48,4 +48,3 @@ The dataset we used is obtained from Kaggle: https://www.kaggle.com/datasets/joh
 6. https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python
 7. https://stats.stackexchange.com/questions/128880/number-of-feature-maps-in-convolutional-neural-networks
 
-### Side Note: As our project is initiated on Google Colab, incase of dependencies error on local machine, here is the link to view our project on Google Colab: https://colab.research.google.com/drive/1_B6jZ4Yj_CkOQ6HuNQ4JTtdJrpXyu7CC?usp=sharing
